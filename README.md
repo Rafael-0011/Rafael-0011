@@ -1,6 +1,7 @@
 # João Rafael
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="100px" max-width="200px" width="380px" align="right">
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI0MTYwMzcsIm5iZiI6MTczMjQxNTczNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI0VDAyMzUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhNmUxZmFhNDk2Yzg3YTg1ZGRkN2U2NmMyZjU4MTlmYzgxMWJhNjM5ZTBkN2ZkNmM3NTJlMmUxNTA5ZjE0YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RaNACyEolAjxk0ux9B94jwpvrIKoM2YMXi77uaomPXE" min-width="100px" max-width="200px" width="380px" align="right">
 
 Sou um **Desenvolvedor Back-End** apaixonado por tecnologia e desafios, estou focado em melhorar minhas habilidades e contribuir para soluções inovadoras.
 
