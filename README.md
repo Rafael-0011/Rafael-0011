@@ -38,7 +38,7 @@ Sou um **Desenvolvedor Back-End** apaixonado por tecnologia e desafios, estou fo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-**"Eu sempre busco aprender algo novo e me desafiar em projetos que me ajudam a crescer como desenvolvedor e como pessoa."**
+**"Eu sempre busco aprender algo novo e me desafiar em projetos que me ajudam a crescer como desenvolvedor."**
 
 ---
 
