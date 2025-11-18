@@ -7,7 +7,7 @@ Sou um **Desenvolvedor Back-End** apaixonado por tecnologia e desafios, estou fo
 📍 Onde me encontrar:
 
 - **E-mail**: [rafaelsora0@gmail.com](mailto:rafaelsora0@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/joao-rafael-0a4a51248](https://www.linkedin.com/in/joao-rafael-0a4a51248)
+- **LinkedIn**: [www.linkedin.com/in/joao-rafael-0a4a51248](https://www.linkedin.com/in/rafael-chaves-0a4a51248)
 - **GitHub**: [https://github.com/Rafael-0011](https://github.com/Rafael-0011)
 
 
