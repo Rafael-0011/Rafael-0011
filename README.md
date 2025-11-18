@@ -1,36 +1,58 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?..." width="350px" align="right">
+
 # João Rafael
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM1NDYyMTIsIm5iZiI6MTczMzU0NTkxMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA3VDA0MzE1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmOWM5ZmZkYjc3NDFhZGY3MTQzZGRmMmUxOTlkZDQ2Yzk4Nzc3NzAzYjZjNWY0ZTVhODc1OTlhNjc0YWZiNjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WUUs3wrTALgdFIRMsescr24ahf4sQdqfbuEGMCsl_Bw"  min-width="400px" max-width="400px" width="350px" align="right">
+**Software Development Engineer | Back-End Specialist**
 
-Sou um **Desenvolvedor Back-End** apaixonado por tecnologia e desafios, estou focado em melhorar minhas habilidades e contribuir para soluções inovadoras.
-
-📍 Onde me encontrar:
-
-- **E-mail**: [rafaelsora0@gmail.com](mailto:rafaelsora0@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/joao-rafael-0a4a51248](https://www.linkedin.com/in/rafael-chaves-0a4a51248)
-- **GitHub**: [https://github.com/Rafael-0011](https://github.com/Rafael-0011)
-
-
-## Principais Skills
-![JavaScript](https://camo.githubusercontent.com/9bbd4c2b5f7cda139d91d34caa14392df56353ca55e19b58184610aa8b123854/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Tecnologias que possuo conhecimento
-![Node](https://camo.githubusercontent.com/8d2dde0f614101199d98e4331ca4f349ea994437190dae63353a1823929e95da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465)
-![Express](https://camo.githubusercontent.com/9789aea7953b74289df6760a71e717321e750032579075e89744c592f46461aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-**"Eu sempre busco aprender algo novo e me desafiar em projetos que me ajudam a crescer como desenvolvedor."**
+Apaixonado por tecnologia e desafios. Tenho experiência com desenvolvimento, manutenção e otimização de sistemas corporativos, APIs RESTful, microsserviços, automação de processos e integração de dados. Domínio nas principais stacks modernas, buscando sempre entregar soluções seguras, escaláveis e de alta performance.
 
 ---
 
-🔗 **Sinta-se à vontade para me contactar ou explorar meus projetos no GitHub.** 🚀
+**Principais impactos:**
+- Automação e otimização de processos internos em sistemas corporativos
+- Participação em squads ágeis (Scrum, Kanban) e revisões de código (Code Review, TDD)
+- Colaboração multidisciplinar, facilitando integração entre backend, frontend e DevOps
+- Proatividade na identificação e resolução de bugs críticos
+
+---
+
+## 📍 Onde me encontrar:
+
+- **E-mail**: [rafaelsora0@gmail.com](mailto:rafaelsora0@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/joao-rafael-0a4a51248](https://www.linkedin.com/in/joao-rafael-0a4a51248)
+- **GitHub**: [https://github.com/Rafael-0011](https://github.com/Rafael-0011)
+
+---
+
+## 🛠 **Principais Skills**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-0052CC?style=for-the-badge&logo=flyway&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-CF2E2E?style=for-the-badge&logo=minio&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-800000?style=for-the-badge)
+
+---
+
+## 🚀 **Tecnologias que conheço**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🏆 **Sempre buscando aprender algo novo, evoluir e contribuir através de projetos desafiadores.**
+
+🔗 **Explore meus projetos abaixo ou entre em contato para colaborarmos!** 🚀
