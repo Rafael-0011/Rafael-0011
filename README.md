@@ -18,8 +18,8 @@ Apaixonado por tecnologia e desafios. Tenho experiência com desenvolvimento, ma
 
 ## 📍 Onde me encontrar:
 
-- **E-mail**: [rafaelsora0@gmail.com](mailto:rafaelsora0@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/joao-rafael-0a4a51248](https://www.linkedin.com/in/joao-rafael-0a4a51248)
+- **E-mail**: [rafaelchavesdev1@gmail.com](mailto:rafaelchavesdev1@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/rafael-chaves-0a4a51248](www.linkedin.com/in/rafael-chaves-0a4a51248)
 - **GitHub**: [https://github.com/Rafael-0011](https://github.com/Rafael-0011)
 
 ---
