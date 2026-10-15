@@ -69,5 +69,10 @@ Cole aqui seus repos quando publicar, ex:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-0011)
 
 ---
+<p align="center">
+  <img src="output.gif" alt="Demonstração do Projeto" width="200">
+</p>
 
 *Aberto a oportunidades de backend Java — remoto, híbrido ou Fortaleza/CE.*
+
+
