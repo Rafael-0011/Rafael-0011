@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="output.gif" alt="Demonstração do Projeto" width="200">
+   <img src="barba.jpg" alt="Demonstração do Projeto" width="200">        
+
 </p>
 
-# Rafael Chaves 
+
+
+# Rafael Chaves
+
 
 **Backend Engineer · Java & Spring Boot**
 
