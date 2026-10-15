@@ -1,6 +1,8 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?..." width="300px" align="right">
+<p align="center">
+  <img src="output.gif" alt="Demonstração do Projeto" width="200">
+</p>
 
-# Rafael Chaves
+# Rafael Chaves 
 
 **Backend Engineer · Java & Spring Boot**
 
